@@ -1,0 +1,4 @@
+org\example\CaravanServiceIntegrationTest.class
+org\example\CarServiceIntegrationTest.class
+org\example\MotorbikeServiceIntegrationTest.class
+org\example\configuration\MockMvcConfig.class
